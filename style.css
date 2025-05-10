@@ -95,7 +95,7 @@ a:hover{
     padding: 5px;
     background-color: #D8F4F4;
     width: 65px;
-    margin-left: 410px;
+    margin-left: 820px;
     color: #42426C;
 }
 
@@ -105,7 +105,7 @@ a:hover{
     padding: 5px;
     background-color: #D8F4F4;
     width: 85px;
-    margin-left: 410px;
+    margin-left: 820px;
     color: #42426C;
 }
 
@@ -115,7 +115,7 @@ a:hover{
     padding: 5px;
     background-color: #D8F4F4;
     width: 82px;
-    margin-left: 410px;
+    margin-left: 820px;
     color: #42426C;
 }
 
@@ -125,7 +125,7 @@ a:hover{
     padding: 5px;
     background-color: #D8F4F4;
     width: 100px;
-    margin-left: 410px;
+    margin-left: 820px;
     color: #42426C;
 }
 
@@ -153,7 +153,7 @@ img:hover{
 main{
     color: #42426C;
     margin-top: 30px;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .post{
@@ -164,7 +164,7 @@ main{
     width: 80px;
     height: 70px;
     margin-bottom: 70px;
-    margin-left: 400px;
+    margin-left: 800px;
 }
 
 .hov{
@@ -180,7 +180,7 @@ main{
     width: 80px;
     height: 70px;
     margin-bottom: 70px;
-    margin-left: 400px;
+    margin-left: 800px;
 }
 
 .container{
