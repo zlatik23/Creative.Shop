@@ -40,7 +40,7 @@ h1{
 .nav-link1{
     position: fixed;
     top: 45px;
-    left: 303px;
+    left: 320px;
     background-color: #C3EBA2;
     color: #9393C7;
     text-decoration: none;
@@ -52,7 +52,7 @@ h1{
 .nav-link2{
     position: fixed;
     top: 45px;
-    left: 436px;
+    left: 620px;
     background-color: #C3EBA2;
     color: #9393C7;
     text-decoration: none;
@@ -64,7 +64,7 @@ h1{
 .nav-link3{
     position: fixed;
     top: 45px;
-    left: 596px;
+    right: 620px;
     background-color: #C3EBA2;
     color: #9393C7;
     text-decoration: none;
@@ -76,7 +76,7 @@ h1{
 .nav-link4{
     position: fixed;
     top: 45px;
-    left: 743px;
+    right: 320px;
     background-color: #C3EBA2;
     color: #9393C7;
     text-decoration: none;
