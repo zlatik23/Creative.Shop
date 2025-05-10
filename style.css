@@ -1,0 +1,189 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #B0D8D8;
+}
+
+header{
+    background-color: #C3EBA2;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+footer{
+    font-size: 16px;
+    text-align: center;
+    color: #9393C7;
+    font-family: Krona One;
+    height: 57px;
+    width: 100%;
+    background-color: #C3EBA2;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+h1{
+    text-align: center;
+    color: #9393C7;
+    font-family: Krona One;
+}
+
+.nav-link1{
+    position: fixed;
+    top: 45px;
+    left: 190px;
+    background-color: #C3EBA2;
+    color: #9393C7;
+    text-decoration: none;
+    text-align: center;
+    margin: 65px;
+    padding: 8px;
+}
+
+.nav-link2{
+    position: fixed;
+    top: 45px;
+    left: 290px;
+    background-color: #C3EBA2;
+    color: #9393C7;
+    text-decoration: none;
+    text-align: center;
+    margin: 65px;
+    padding: 8px;
+}
+
+.nav-link3{
+    position: fixed;
+    top: 45px;
+    left: 410px;
+    background-color: #C3EBA2;
+    color: #9393C7;
+    text-decoration: none;
+    text-align: center;
+    margin: 65px;
+    padding: 8px;
+}
+
+.nav-link4{
+    position: fixed;
+    top: 45px;
+    left: 520px;
+    background-color: #C3EBA2;
+    color: #9393C7;
+    text-decoration: none;
+    text-align: center;
+    margin: 65px;
+    padding: 8px;
+}
+
+a:hover{
+    color: #704C8F;
+}
+
+.f1{
+    margin-top: 200px;
+    font-size: 22px;
+    padding: 5px;
+    background-color: #D8F4F4;
+    width: 65px;
+    margin-left: 410px;
+    color: #42426C;
+}
+
+.f2{
+    margin-top: 80px;
+    font-size: 22px;
+    padding: 5px;
+    background-color: #D8F4F4;
+    width: 85px;
+    margin-left: 410px;
+    color: #42426C;
+}
+
+.f3{
+    margin-top: 80px;
+    font-size: 22px;
+    padding: 5px;
+    background-color: #D8F4F4;
+    width: 82px;
+    margin-left: 410px;
+    color: #42426C;
+}
+
+.f4{
+    margin-top: 80px;
+    font-size: 22px;
+    padding: 5px;
+    background-color: #D8F4F4;
+    width: 100px;
+    margin-left: 410px;
+    color: #42426C;
+}
+
+.fff {
+    width: 160px;
+    height: 180px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #D9D9D9;
+}
+
+img{
+    width: 144px;
+    height: 114px;
+}
+
+img:hover{
+    width: 154px;
+    height: 124px;
+    transition: 0.1s;
+}
+
+main{
+    color: #42426C;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.post{
+    color: #9393C7;
+}
+
+.heart{
+    width: 80px;
+    height: 70px;
+    margin-bottom: 70px;
+    margin-left: 400px;
+}
+
+.hov{
+    font-family: Krona One;
+}
+
+.hov:hover{
+    font-size: 20px;
+    transition: 0.3s;
+}
+
+.heart:hover{
+    width: 80px;
+    height: 70px;
+    margin-bottom: 70px;
+    margin-left: 400px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
