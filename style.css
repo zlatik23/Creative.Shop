@@ -40,7 +40,8 @@ h1{
 .nav-link1{
     position: fixed;
     top: 45px;
-    left: 320px;
+    display: flex;
+    justify-content: space-around;
     background-color: #C3EBA2;
     color: #9393C7;
     text-decoration: none;
@@ -52,7 +53,8 @@ h1{
 .nav-link2{
     position: fixed;
     top: 45px;
-    left: 500px;
+    display: flex;
+    justify-content: space-around;
     background-color: #C3EBA2;
     color: #9393C7;
     text-decoration: none;
@@ -64,7 +66,8 @@ h1{
 .nav-link3{
     position: fixed;
     top: 45px;
-    right: 500px;
+    display: flex;
+    justify-content: space-around;
     background-color: #C3EBA2;
     color: #9393C7;
     text-decoration: none;
@@ -76,7 +79,8 @@ h1{
 .nav-link4{
     position: fixed;
     top: 45px;
-    right: 320px;
+    display: flex;
+    justify-content: space-around;
     background-color: #C3EBA2;
     color: #9393C7;
     text-decoration: none;
@@ -95,7 +99,6 @@ a:hover{
     padding: 5px;
     background-color: #D8F4F4;
     width: 65px;
-    margin-left: 596px;
     color: #42426C;
 }
 
@@ -105,7 +108,6 @@ a:hover{
     padding: 5px;
     background-color: #D8F4F4;
     width: 85px;
-    margin-left: 596px;
     color: #42426C;
 }
 
@@ -115,7 +117,6 @@ a:hover{
     padding: 5px;
     background-color: #D8F4F4;
     width: 82px;
-    margin-left: 596px;
     color: #42426C;
 }
 
@@ -125,7 +126,6 @@ a:hover{
     padding: 5px;
     background-color: #D8F4F4;
     width: 100px;
-    margin-left: 596px;
     color: #42426C;
 }
 
@@ -164,7 +164,6 @@ main{
     width: 80px;
     height: 70px;
     margin-bottom: 70px;
-    margin-left: 583px;
 }
 
 .hov{
@@ -180,14 +179,16 @@ main{
     width: 80px;
     height: 70px;
     margin-bottom: 70px;
-    margin-left: 630px;
 }
 
 .heart{
     width: 80px;
     height: 70px;
     margin-bottom: 70px;
-    margin-left: 630px;
+}
+
+.img{
+    text-align: center;
 }
 
 .container{
